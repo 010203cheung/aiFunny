@@ -1,0 +1,31 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor folders
+.vscode/
+.idea/
+
+# Logs or temporary files
+*.log
+*.tmp
+*.bak
+
+# Jupyter / VSCode workspace autosaves
+.ipynb_checkpoints/
+.history/
+
+# Optional: Python build output
+build/
+dist/
+*.egg-info/
